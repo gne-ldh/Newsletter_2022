@@ -55,7 +55,8 @@ Check all the latest activities from Training and Placement Cell from
 
 ## Training And Placement team
 \
-![Team](Images/Placement_Team.JPG)
+![Team1](Images/tnp_images/team1.jpeg)
+![Team1](Images/tnp_images/team2.jpeg)
 <p align=justify>
 Guru Nanak Dev Engineering College also has an active training and placement cell in order to assist our students in identifying their ambitions and life goals in the trending competitive placement market. T&P provides the infrastructural facilities to conduct group discussions, tests and interviews besides catering to other logistics.
 </p>
@@ -85,9 +86,12 @@ Other major recruiters like Infosys, IndiaMART InterMESH Ltd., Publicis Sapient,
 <p align="justify">
 Recruiters like Wipro, XenonStack, RDC Concrete, Hero Cycles, HCL, Capgemini, Bizmerlin HR, Clerisy Solutions, Vardhaman, VVDN Technologies and many others provided good jobs offers. Prof. G.S. Sodhi, Training and Placement officer shared about one promising trend for the engineering students that various MNCs, MSMEs & leading industries like SML ISUZU, Larsen & Toubro, Bhagwansons Centerless Grinders, Asian Bikes, Stylumia, Damsun, International Tractors Ltd(Sonalika), Impact Agencies, New Era Machines, Citizen Components, Happy Forgings, Zscaler, Kangaro KGOC, Venture Pact, SafeAeon Inc., Bizmerlin HR and many more have come forward to offer internships to students with handsome stipends up to 30000/- . “All the internships are virtually converted to the placement in the same company. The companies have one full semester time to convert these interns into trained professionals”. He added
 
-</p>
+</p >
+
+<p align = justify>
 Principal Dr. Sehijpal Singh disclosed that this year a noticeable rise has been observed in number of placements as well as in the salary packages. While congratulating the placed students he said that almost all students who wish to get placement will definitely get it by the session end as more recruiting companies are yet to come in the second phase. 
 
+</p>
 <p align="justify">
 
 </p>
