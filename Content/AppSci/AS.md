@@ -6,7 +6,8 @@
 
 <p align=justify>
 Department of Applied Science is a multidisciplinary department and it is functioning with a team of dedicated faculty members who have been actively engaged in imparting quality teaching of the courses in basic science and humanities for graduating engineering students. The core courses offered being Physics, Chemistry, Mathematics, English and Principles of Engineering Economics and Management. Apart from these undergraduate courses, the department is also pursuing research activities in the above-mentioned disciplines. Currently the department is having research scholars in various subjects. The department of Science & Humanities welcomes committed minds to join hands to build a strong dynamic and wholesome department. It is an endeavor of this department so that students find application of science to everyday life, moral and social understanding. At present subjects like Chemistry, English, Mathematics, Physics,Principles of Engineering Economics and Management etc. are engaged by the department.
-
+ </p>
+ 
 Dr. Harpreet Kaur Grewal
 
 HOD, Applied Science Department
