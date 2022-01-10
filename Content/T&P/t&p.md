@@ -16,7 +16,6 @@ Many National and Multinational companies visit the college for recruitments. Th
 </p>
 
 
-
 ----
 
 ## Message from TPO's Desk
@@ -35,14 +34,6 @@ The Training and Placement Cell, GNDEC along with giving an outstanding placemen
 Students of the previous batches have further assured the solid foundation of our institution by taking placements in companies with top global reputation. The bonds developed with the industries ultimately lead to a great future ahead, providing an environment for research and education. Thus,  I invite the recruiting organizations and graduating students to find the best match between their needs and capabilities and look forward to have your active participation.
 </p>
 
-----
-## Recent Activities
-
-<p align = justify>
-Check all the latest activities from Training and Placement Cell from 
-</p>
-
-[TNP Cell](https://www.tnpgndec.com)
 
 ----
 
@@ -66,7 +57,7 @@ This education program is being introduced to enrich the bond that the company h
 
 ## Major Recruiters
 \
-![MajorRecruiters](Images/MajorRecruiters.jpg)
+![MajorRecruiters](Images/MajorRecruiters-min.jpg)
 
 <br />
 
