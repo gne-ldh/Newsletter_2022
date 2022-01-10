@@ -34,28 +34,12 @@ The Training and Placement Cell, GNDEC along with giving an outstanding placemen
 Students of the previous batches have further assured the solid foundation of our institution by taking placements in companies with top global reputation. The bonds developed with the industries ultimately lead to a great future ahead, providing an environment for research and education. Thus,  I invite the recruiting organizations and graduating students to find the best match between their needs and capabilities and look forward to have your active participation.
 </p>
 
-
-----
-
-## Mera Swaraj Education Program
-
-### About the program -
-<p align = justify>
-This education program is being introduced to enrich the bond that the company has created over the years by providing the right platform to the bright talent from our esteemed institution. This program offers financial support to the selected students along with industrial exposure to co-creating Farm Tech prosperity and making them better equipped for meeting future challenges. This will also help them to chase career aspirations while taking care of their holistic development. Through this initiative, the company supports meritorious and deserving students, enrolled in the second year of B. Tech. program.
-<p/>
-
-### Program Offerings -
-
-1. Support for Tuition Fees- Rs.15000 per Year ( Approx)
-2. Books - Technical and Leadership – Rs.5000 per Year  (Approx)
-3. Study Tour Assistance- Rs.15000 (if it is part of the curriculum)
-4. Internship and Live Projects in Swaraj.
-5. Assignment of Mentors.
-*Total scholarship up to Rs.95000/- per student will be offered to the qualified students in addition to internship/ live projects, mentorship over the duration of their course.
+<br />
 
 ---
 
 ## Major Recruiters
+
 \
 ![MajorRecruiters](Images/MajorRecruiters-min.jpg)
 
@@ -81,12 +65,6 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 </p>
 
 ---
-## [Placement Highlights 2022](Placement_highlights_2022.md)
-
----
-## [Placed Students](Placed_students.md)
-
----
 
 
 ## Events
@@ -96,6 +74,8 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 * [Events held in collaboration with Intel](Events_Intel.md)
 
 * [Events held in collaboration with TCS](Events_TCS.md)
+
+* [Events held in collaboration with Mahindra Mahindra](Events_MM.md)
 
 ---
 
@@ -161,3 +141,11 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 | Venture Pact, LLC | 20000 |
 | Xenonstack | 15000 |
 | Zscaler | 30000 |
+
+
+
+----
+## [Placement Highlights 2022](Placement_highlights_2022.md)
+
+---
+## [Placed Students](Placed_students.md)

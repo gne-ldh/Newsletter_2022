@@ -32,7 +32,7 @@ Winternship is Infosys holistic training and internship program designed to faci
 
 <br />
 
-## Java Programming by Infosys
+## Train the Trainer Programme “Creating Microsites on Infosys Springboard ”
 ---
 
 <p align = justify>
