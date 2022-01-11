@@ -12,8 +12,9 @@ The cell contrives to provide training in industries for 6 weeks at the end of 4
 ### Placements
 
 <p align=justify>
-Many National and Multinational companies visit the college for recruitments. The Cell is a link that provides students with all the information they require at the fastest rate possible. A common placement brochure gets published annually covering all aspects. The Training & Placement Cell works day and night in order to develop 'Industry-Institute Interaction'. Along with Developing relations with the industries, the cell organizes technical talks and national seminars to provide a platform for budding engineers to interact with professionals from various industries, it encourages college students to visit the industries. The students regularly visit the industries under TEQIP-II programme.
+Many National and Multinational companies visit the college for recruitments. The Cell is a link that provides students with all the information they require at the fastest rate possible. A common placement brochure gets published annually covering all aspects. The Training & Placement Cell works day and night in order to develop 'Industry-Institute Interaction'. Along with Developing relations with the industries, the cell organizes technical talks and national seminars to provide a platform for budding engineers to interact with professionals from various industries, it encourages college students to visit the industries. 
 </p>
+
 
 ----
 
@@ -33,20 +34,24 @@ The Training and Placement Cell, GNDEC along with giving an outstanding placemen
 Students of the previous batches have further assured the solid foundation of our institution by taking placements in companies with top global reputation. The bonds developed with the industries ultimately lead to a great future ahead, providing an environment for research and education. Thus,  I invite the recruiting organizations and graduating students to find the best match between their needs and capabilities and look forward to have your active participation.
 </p>
 
-----
+<br />
+
+---
 
 ## Major Recruiters
-\
-![MajorRecruiters](Images/Major_Recruiters.jpg)
 
 \
-![hefty](Images/hefty.jpg)
+![MajorRecruiters](Images/MajorRecruiters-min.jpg)
+
+<br />
+
 
 ----
 
 ## Training And Placement team
 \
-![Team](Images/Placement_Team.JPG)
+![Team1](Images/team1.jpeg)
+![Team1](Images/team2.jpeg)
 <p align=justify>
 Guru Nanak Dev Engineering College also has an active training and placement cell in order to assist our students in identifying their ambitions and life goals in the trending competitive placement market. T&P provides the infrastructural facilities to conduct group discussions, tests and interviews besides catering to other logistics.
 </p>
@@ -55,108 +60,94 @@ Guru Nanak Dev Engineering College also has an active training and placement cel
 The Training & Placement Cell was applauded for its efforts and achievements by a national daily.
 </p>
 
-----
-
-## HR Summit 2020 in Collaboration with CII
-\
-![hrsummit](Images/hrsummit.jpg)
-
-![hrsummit2](Images/hrsummit2.jpg)
-
-![team](Images/HRSummit.jpeg)
-
 <p align=justify>
-Today’s technology has paved the way for better communication and ensured fast and visible communication between the industries and job seekers.
+We have a training placement team which includes Student Coordinators, Deputy Coordinators, Co-coordinators, Student moderators, Student Advisor, Database head Administrator, Public relation officer, Media Head, Executive Team, Who perform their duties well and efficiently.
 </p>
 
-<p align=justify>
-To promote this proactive exchange, Guru Nanak Dev Engineering College in association with Confederation of Indian Industry organized an HR summit on “Bridging the gap between Industry and Academia” at Radisson Blu, MBD Neopolis Mall, Ludhiana, Punjab.
-</p>
+---
 
-<p align=justify>
-The prominent speakers from reputed companies like TCS, Accenture, Infosys, Ambuja Cement, Kangaroo, Amber, Nahar Group, Themax, Mahindra & Mahindra and many more marked their presence at the conference.
-</p>
-
-----
-
-## Placement Highlights
-
-<p align="justify">
-Amidst the worrisome pandemic situation causing tremendous losses to the Indian economy and the job market, Guru Nanak Dev Engineering College (GNDEC) Ludhiana is witnessing a successful and promising placement drive. The talent hunt for engineering students of different branches has begun with a bang here. The graduating students of B.Tech, M.Tech, MBA, and MCA of the 2021 passing out batch have registered for the campus recruitment process which began in the month of August, 2020 and is continuing in full swing. Recruiters like Microsoft, TCS, Infosys, Accenture, Cognizant, Bizmerlin, Vardhman Group, Weatherford DPS amongst other recruiters, have shown keen interest in the drive. The companies are shortlisting the students on the basis of aptitude and mental ability tests and later through interviews. After facing rigorous competition from other college students, one of our students got selected for Microsoft with a package of ₹12 lakh. Tata Consultancy Services (TCS) recruited more than 45 students with two students being selected for a package of up to ₹6.5 lakh per annum. It has also decided to recruit more students from our college via its Smart Hiring process. Delhivery company has shown interest to be the part of College’s recruitment process and offered a package of ₹8 lakhs to the students. Infosys has offered lucrative packages ranging from ₹3.6 to 5 LPA followed by some other major recruiters like Cognizant, SafeAeon, Chicmic and Xenonstack, who have already offered job entitlements with packages of ₹4 LPA, ₹3.6 LPA, ₹3.6 LPA and ₹4.2 LPA respectively. Not only for CSE, IT and ECE, companies like Hero Cycles ltd., Mapie, Gurdev Consultancy Services, Relinns Technologies, Ralson, Capital Via, Varun Beverages Limited, ANA technical consulting, GS Auto International, Happy Forgings ltd, J.K Cements also came forth and showed their keen interest in recruiting the students of core branches like Electrical, Mechanical, Production and Civil departments. These companies offered great recruitment and internship opportunities to our students with a very decent package. Seven of our students have got selected for free training in Qspider company. Companies like Vardhaman, Happy Forging, Kangaroo Industries, New era machine, Bhagwan sons, Gurdev consultants, Hero Cycles, and many more are also providing the opportunities for online as well as offline internships for the young minds so that they can enhance their skill-set for future endeavors. The recruiters expressed their satisfaction with the knowledge and soft skill competencies of GNDEC students. Platforms like Lido-Learning have stepped in for this and it is offering recruitment with packages ranging from ₹7 to 10 LPA post-internship. Not only for 2021 passing out batch, but three students from our college of 2023 passing out batch have also been granted scholarships under Mera Swaraj Education Support Program. With their high spirits and never-say-over attitude, young Genconians are proving their caliber in the various competitions organized by the recruiters. The college is hopeful that the placement drive continues with the success it is seeing as it goes forward, and brings out the best for the students.
-</p>
-
-\
-![placement](Images/Placement_Highlights2.jpeg)
-
-![Micro](Images/Microsoft.jpeg)
-
-![placement2](Images/Placement_Highlights.jpeg)
-
-![placement](Images/Placement_Highlights4.jpeg)
-
-![placement](Images/Placement_Highlights5.jpeg)
-
-----
-
-## Some of Our Placed Students
-
-\
-![cogni](Images/cogniF.jpg)
-
-![tcs](Images/TCSF2.jpg)
-
-![infy](Images/infyf.jpg)
-
-![biz](Images/bizf.jpg)
-
-----
-
-## Student Achievements
-
-\
-![achievement](Images/HACKTHON_Winners2.jpeg)
-
-![achievement](Images/TCS_InfraMind_Winners_2.jpeg)
 
 ## Events
-\
-![codevita](Images/codevita.png)
 
-<p align=justify>
-TCS CodeVita, is a contest for engineering and science students to experience the joy of coding and to sharpen their programming skills through real-life computing practices. The contest also aims at identifying the talent, besides providing the student community, an opportunity to earn peer recognition.
-</p>
+* [Events held in collaboration with Infosys](Events_Infosys.md)
+
+* [Events held in collaboration with Intel](Events_Intel.md)
+
+* [Events held in collaboration with TCS](Events_TCS.md)
+
+* [Events held in collaboration with Mahindra & Mahindra](Events_MM.md)
+
+* [Recent Placement Activities](https://www.tnpgndec.com)
+
+---
+
+## Placement Insights
+
+| Company Name | Package(LPA) |
+|--------------|--------------|
+|Samsung | 14.5 |
+|Zscaler | 13.94 |
+|TCS(Digital) | 7 |
+|Sapient | 6.5 |
+|Larsen & Tourbo | 6.3 |
+|Modak Analystics LLP | 6 |
+|Paxcom | 6 |
+|Pure Software Pvt. Ltd. | 6 |
+|Surya Software | 6 |
+|Volvo- Eicher(VE) Commercial Vehicles Ltd. | 6 |
+|Argusoft | 5.62 |
+|Xenonstack | 5.5 |
+|Accolite Digital India Private Limited | 5 |
+|HCL Technologies Ltd. | 4.75 |
+|Venture Pact, LLC | 4.62 |
+|Brillio | 4.5 |
+|ChicMic | 4.5 |
+|Clerisy Solutions Pvt Ltd. | 4.5 |
+|Capgemini | 4 |
+|Cloud Analogy Softech Pvt. Ltd. | 4 |
+|Cognizant | 4 |
+|Orion eSolutions Pvt. Ltd. | 3.75 |
+|Infosys Limited | 3.6 |
+|SafeAeon Inc. | 3.6 |
+|Bebo Technologies | 3.5 |
+|Wipro | 3.5 |
+|BYJU's | 3.36 |
+|TCS (Ninja) | 3.36 |
+|BizMerlin HR. | 3.3 |
+|Brisk Logic Pvt. Ltd. | 3 |
+|Step2gen | 2.6 |
+|Damsun Group | 2.1 |
+
+## Internship Insights
+
+| Companies providing Internship |	Stipend Per month |
+|--------------------------------|--------------------|
+| Accolite Digital India Private Limited | 20000 |
+| Argusoft | 21000 |
+| BizMerlin Hr. | 10000 |
+| ChicMic | 8000 |
+| Clerisy Solutions Pvt Ltd. | 15000 |
+| Cloud Analogy Softech Pvt. Ltd. | 15000 |
+| Damsun Group | 10000 |
+| Dr. D Project & Resource Management | 10000 |
+| Kangaro Tools | 7500 |
+| Oceana Tech.. | 12000 |
+| Orion eSolutions Pvt. Ltd. | 15000 |
+| Pure Software Pvt. Ltd. | 20000 |
+| SafeAeon Inc. | 15000 |
+| Samsung | 30000 |
+| Seasia Infotech | 10000 |
+| Step2gen | 15000 |
+| Stylumia Intelligence Technology Pvt. Ltd. | 20000 |
+| TCIL-IT | 10000 |
+| Venture Pact, LLC | 20000 |
+| Xenonstack | 15000 |
+| Zscaler | 30000 |
+
+
 
 ----
+## [Placement Highlights 2022](Placement_highlights_2022.md)
 
-![nqt](Images/TCS-NQT-2020.jpg)
-
-<p align=justify>
-NQT - which is conducted by TCS' strategic unit TCS iON - is a multi-level assessment to assess competence on core cognitive abilities required for entry-level jobs, industry-specific knowledge and insights, and specialisation on skills required for performing the job role.
-</p>
-
-----
-
-![hackwithinfy](Images/hackwithinfy.png)
-
-<p align=justify>
-HackWithInfy is India-wide coding competition for final year engineering students. ... Top performers in the competition not only win exciting prizes, but also earn a chance to work with Infosys in niche technical roles.
-</p>
-
-----
-
-![infytq](Images/inftq.jpg)
-
-<p align=justify>
-InfyTQ is a free platform open to all engineering students in their third and fourth year across India. The platform encourages holistic development by imparting technical as well as professional skills and help them become industry ready.
-</p>
-
-----
-
-![nlth](Images/wipro_NLTH_Elite.jpg)
-
-<p align=justify>
-Image result for what is wipro nlth
-Elite National Level Talent Hunt 2021 (NLTH) is a fresher's hiring initiative to attract the best of 2021 engineering talent across the country. And the objective of this initiative is to enable an equal opportunity for employment to the most deserving talent across all engineering streams in India.
-</p>
-
-----
+---
+## [Placed Students](Placed_students.md)
