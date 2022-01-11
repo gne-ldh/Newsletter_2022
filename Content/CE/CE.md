@@ -58,6 +58,10 @@ To address the issues of increasing road accidents and other traffic related pro
 
 ![CoE](Images/Traffic.JPG)
 
+</p>
+
+<p align=justify>
+
 Dr. Prashant Garg and Prof. Pushpinder Singh are working on various research projects related to the Traffic Management with the participation of students.
 </p>
 
