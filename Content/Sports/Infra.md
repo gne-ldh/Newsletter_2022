@@ -12,14 +12,14 @@
 
 ![1](Images/Infra/8.jpg)
 
-![1](Images/Infra/9.jpg)
+![1](Images/Infra/9.JPG)
 
 ![1](Images/Infra/5.jpeg)
 
 ![1](Images/Infra/6.JPG)
 
-![1](Images/Infra/10.jpg)
+![1](Images/Infra/10.JPG)
 
-![1](Images/Infra/11.jpg)
+![1](Images/Infra/11.JPG)
 
-![1](Images/Infra/12.jpg)
+![1](Images/Infra/12.JPG)
