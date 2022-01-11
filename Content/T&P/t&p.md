@@ -75,7 +75,9 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 * [Events held in collaboration with TCS](Events_TCS.md)
 
-* [Events held in collaboration with Mahindra Mahindra](Events_MM.md)
+* [Events held in collaboration with Mahindra & Mahindra](Events_MM.md)
+
+* [Recent Placement Activities](https://www.tnpgndec.com)
 
 ---
 
