@@ -54,15 +54,7 @@ During the valedictory function, feedback from participants was taken. The parti
 ####  Centre of Excellence-Punjab Road Safety and Traffic Management
 
 <p align=justify>
-To address the issues of increasing road accidents and other traffic related problems in the region of Punjab. The department of Civil Engineering has signed an MoU with Punjab Traffic Police. The department has established an Excellence Centre for conducting various research projects to improve the effectiveness of the Traffic system and reduce the accident rate. The Lab had been setup in August 2021 with the sponsorship of Punjab Police. The Coordinators for the Centre of Excellence is DGP Punjab and from the organisation.
-
-![CoE](Images/Traffic.JPG)
-
-</p>
-
-<p align=justify>
-
-Dr. Prashant Garg and Prof. Pushpinder Singh are working on various research projects related to the Traffic Management with the participation of students.
+To address the issues of increasing road accidents and other traffic related problems in the region of Punjab. The department of Civil Engineering has signed an MoU with Punjab Traffic Police. The department has established an Excellence Centre for conducting various research projects to improve the effectiveness of the Traffic system and reduce the accident rate. The Lab had been setup in August 2021 with the sponsorship of Punjab Police. The Coordinators for the Centre of Excellence is DGP Punjab and from the organization, Dr. Prashant Garg and Prof. Pushpinder Singh are working on various research projects related to the Traffic Management with the participation of students.
 </p>
 
 ![CoE](Images/degree.JPG)
