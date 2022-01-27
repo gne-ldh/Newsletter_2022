@@ -4,8 +4,9 @@
 
 ![PSB](Images/JSG.png)  
 
-
+<p align=justify>
 It is great that institute is publishing the information regarding the academic and non-academic achievements and activities in the form of Newsletter every year. This yearly Newsletter reflect the significant outcome of the faculty, staff and students despite the pandemic COVID-19 situation. In these crucial moment, our primary goal is to go for safe and protective operation of the institute. I personally and on the behalf of the department congratulate the Newsletter team for their appreciable efforts in compiling and publishing the important outcomes of the department.
+</p>
 
 ***Dr. Jasmaninder Singh Grewal***  
  *HOD, Mechanical and Production Engineering Department*
@@ -31,7 +32,7 @@ It is great that institute is publishing the information regarding the academic 
 - Kumar, N., Singh, T., **Grewal JS.**,“Natural Fiber Reinforced brake friction composites:  Optimization using hybrid AHP- Moora Approach  AIP Web of Science & SCOPUS.
 - Kumar Naresh, **Grewal J.S.**, Singh Avtar & Mehta Vikas, “A comparative study of alkali treated date palm fiber based brake friction composites and standard kevlar based brake friction composites” Polymer Composites Nov. 03 ,2021, https://doi.org/10.1002/Pc.26370
 - Kumar Naresh, **Grewal J.S.**, Kumar Sushil, Ali Sarafat & Kumar Nitin, “A novel Himachal’s Begar(Sabai) grass fiber used as a brake friction material in brake polymer composites and compared to standard brake friction material”, Polymer Composites Nov. 09, 2021.
-Kumar Naresh, **Grewal Jamaninder Singh**, Kumar Nitin, Kumar Sushil & Ali Sarafat, “A novel Pinus roxburghii natural leaves fiber used as reinforcement polymer composite: As asbestos free brake friction material”, Polymer Composites Nov. 18 ,2021, https://doi.org/10.1002/Pc.26399
+- Kumar Naresh, **Grewal Jamaninder Singh**, Kumar Nitin, Kumar Sushil & Ali Sarafat, “A novel Pinus roxburghii natural leaves fiber used as reinforcement polymer composite: As asbestos free brake friction material”, Polymer Composites Nov. 18 ,2021, https://doi.org/10.1002/Pc.26399
 -  **Satjot Singh Dhillon**,  Vikas Chawla, Gurbhinder Singh Analysis of solid particle erosion in plasma sprayed alumina based coatings on SAE-347H steel ;2021(Materials Today: Proceedings) Article is in press Scopus indexed
 - **Pannu, A.S.**, **Singh, S**. and Dhawan, V., 2021. Effect of alkaline treatment on mechanical properties of biodegradable composite (BF/PLA) rod. Materials Today: Proceedings, 46, pp.9367-9371.
 - **Satwant Singh, Raman Kumar**, Pankaj Goel, **Harmeet Singh**, “Analysis of wear and hardness during surface hardfacing of alloy steel by thermal spraying, electric arc and TIG welding”  Materials Today Procedeings (In press)
@@ -68,36 +69,39 @@ Kumar Naresh, **Grewal Jamaninder Singh**, Kumar Nitin, Kumar Sushil & Ali Saraf
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
-| Sr. No. | Name of Faculty                                                   | Name of Event                                                                                                                                             | Date(s)                                | Organizing Institute                                                                                                          |
-|:--------|:------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
-| 1       | Satjot Singh Dhillon Sidhu                                        | Professional Development training                                                                                                                         | February 8-10, 2021              | IIM, Raipur                                                     |
-| 2       | Pushpinder Singh Sidhu                                        |Professional Development training|	February 8-10, 2021	|IIM, Raipur                     |
-| 3       |Prem Singh|	ICT initiatives in Technical Education	|February 8-13, 2021	|Swayam-NPTEL local chapter, GNDEC|                                                         |
-| 4       | Harnam Singh Farwaha |	ICT initiatives in Technical Education|	February 8-13, 2021	| Swayam-NPTEL local chapter, GNDEC|
-| 5       | Chatwant Singh Pandher|	ICT initiatives in Technical Education|	February 8-13, 2021|	Swayam-NPTEL local chapter, GNDEC|                                                            |
-| 6       | Satwant Singh|	ICT initiatives in Technical Education	|February 8-13, 2021|	Swayam-NPTEL local chapter, GNDEC|
-| 7       | Prem Singh|	Professional Development Training Programme |	January 11-13, 2021	|IIM Visakhapatnam|                                                   |
-| 8       |Gurmeet Kaur|	Professional Development Training Programme |	January 11-13, 2021|	IIM Visakhapatnam |
-| 9       | Gulraj Singh|	Training on Professional Development|	March 1-3, 2021|	IIM Tiruchirappalli|                                     |
-| 10      | Gulraj Singh|	Digital Manufacturing evolutions for smart industries|	August 16-20, 2021|	Poornima College of Engineering, Jaipur                     |
-| 11      |Amrinder Singh Pannu|	ICT Initiatives in Technical Education| February 	8 to 13, 2021|	SWAYAM-NPTEL Local Chapter, GNDEC Ludhiana    |
-| 12      | Amrinder Singh Pannu|	3D Printing	| September 20-24 2021|	GZS Campus CET MRSPTU Bathinda |                               |
-| 13      | Harmeet Singh	|ICT Initiatives in Technical Education|	February 8 - 13, 2021 |	GNDEC, Ludhiana|
-| 14      | Harmeet Singh|	International workshop on solar thermal energy storage| December 13-14 2021|	IIT Roorkee|
-| 15      | Jasmaninder Singh Grewal| LABORATORY QUALITY MANAGEMENT SYSTEM & INTERNAL AUDIT AS PER IS/ISO/IEC 17025:2017” | December 7-10, 2021| National Institute of Training for Standardization, Bureau of Indian Standards|
+| Sr. No. | Name of Faculty         | Name of Event                                                                       | Date(s)                | Organizing Institute                                                           |
+| ------- | ----------------------- | ----------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------ |
+| 1       | Satjot Singh Dhillon    | Professional Development training                                                   | February 8-10, 2021    | IIM, Raipur                                                                    |
+| 2       | Pushpinder Singh Sidhu  | Professional Development training                                                   | February 8-10, 2021    | IIM, Raipur                                                                    |
+| 3       | Prem Singh              | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
+| 4       | Harnam Singh Farwaha    | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
+| 5       | Chatwant Singh Pandher  | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
+| 6       | Satwant Singh           | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
+| 7       | Prem Singh              | Professional Development Training Programme                                         | January 11-13, 2021    | IIM Visakhapatnam                                                              |
+| 8       | Gurmeet Kaur            | Professional Development Training Programme                                         | January 11-13, 2021    | IIM Visakhapatnam                                                              |
+| 9       | Gulraj Singh            | Training on Professional Development                                                | March 1-3, 2021        | IIM Tiruchirappalli                                                            |
+| 10      | Gulraj Singh            | Digital Manufacturing evolutions for smart industries                               | August 16-20, 2021     | oornima College of Engineering, Jaipur                                         |
+| 11      | Amrinder Singh Pannu    | CT Initiatives in Technical Education                                               | February 8 to 13, 2021 | SWAYAM-NPTEL Local Chapter, GNDEC                                              |
+| 12      | Amrinder Singh Pannu    | 3D Printing                                                                         | September 20-24 2021   | GZS Campus CET MRSPTU, Bathinda                                                |
+| 13      | Harmeet Singh           | ICT Initiatives in Technical Education                                              | February 8 - 13, 2021  | GNDEC, Ludhiana                                                                |
+| 14      | Harmeet Singh           | International workshop on solar thermal energy storage                              | December 13-14 2021    | IIT Roorkee                                                                    |
+| 15      | Jasmaninder Singh Grewal | LABORATORY QUALITY MANAGEMENT SYSTEM & INTERNAL AUDIT AS PER IS/ISO/IEC 17025:2017” | December 7-10, 2021    | National Institute of Training for Standardization, Bureau of Indian Standards |
 
 ## Events Organized
-| Sr. No. | Name of Faculty  | Name of Event | Date(s) | Organizing Institute |
-|:--------|:------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
-| 1     |Amrinder Singh Pannu| 3D Printing and Design	| August 2-24 2021 (80 hours)	|TEQIP III GNDEC Ludhiana|
+| Sr. No. | Name of Faculty      | Name of Event          | Date(s)                     | Organizing Institute     |
+| ------- | -------------------- | ---------------------- | --------------------------- | ------------------------ |
+| 1       | Amrinder Singh Pannu | 3D Printing and Design | August 2-24 2021 (80 hours) | TEQIP III GNDEC Ludhiana |
 
 ## NPTEL courses done by Faculty
-| Sr. No. | Name of Faculty  | Course Name |
-|:--------|:-------------------|:--------------------|
-| 1     |Satjot singh Dhillon|	Mechanical Measurement systems
-|2 | Gulraj Singh |	Electronic Waste Management – Issues and Challenges|
-|3 | Gulraj Singh	|Polymer Assisted Abrasive Finishing Processes|
+| Sr. No. | Name of Faculty      | Course Name                                         |
+| ------- | -------------------- | --------------------------------------------------- |
+| 1       | Satjot singh Dhillon | Mechanical Measurement systems                      |
+| 2       | Gulraj Singh         | Electronic Waste Management – Issues and Challenges |
+| 3       | Gulraj Singh         | Polymer Assisted Abrasive Finishing Processes       |
 
 ## NABL & BIS Accredited Pump Testing facility
+<p align=justify>
 The pump testing lab of the department has been re-accredited by *National Accreditation Board for Testing and Calibration Laboratories* (NABL) under **ISO/IEC 17025**. The pump testing Lab has facility to test Submersible pumps under IS-8034:2018.
-![PSB](Images/ptl1.png)  
+</p>
+
+![PSB](Images/ptl1.PNG)  
