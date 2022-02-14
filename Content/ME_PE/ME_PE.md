@@ -69,37 +69,42 @@ It is great that institute is publishing the information regarding the academic 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
-| Sr. No. | Name of Faculty         | Name of Event                                                                       | Date(s)                | Organizing Institute                                                           |
-| ------- | ----------------------- | ----------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------ |
-| 1       | Satjot Singh Dhillon    | Professional Development training                                                   | February 8-10, 2021    | IIM, Raipur                                                                    |
-| 2       | Pushpinder Singh Sidhu  | Professional Development training                                                   | February 8-10, 2021    | IIM, Raipur                                                                    |
-| 3       | Prem Singh              | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
-| 4       | Harnam Singh Farwaha    | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
-| 5       | Chatwant Singh Pandher  | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
-| 6       | Satwant Singh           | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
-| 7       | Prem Singh              | Professional Development Training Programme                                         | January 11-13, 2021    | IIM Visakhapatnam                                                              |
-| 8       | Gurmeet Kaur            | Professional Development Training Programme                                         | January 11-13, 2021    | IIM Visakhapatnam                                                              |
-| 9       | Gulraj Singh            | Training on Professional Development                                                | March 1-3, 2021        | IIM Tiruchirappalli                                                            |
-| 10      | Gulraj Singh            | Digital Manufacturing evolutions for smart industries                               | August 16-20, 2021     | oornima College of Engineering, Jaipur                                         |
-| 11      | Amrinder Singh Pannu    | CT Initiatives in Technical Education                                               | February 8 to 13, 2021 | SWAYAM-NPTEL Local Chapter, GNDEC                                              |
-| 12      | Amrinder Singh Pannu    | 3D Printing                                                                         | September 20-24 2021   | GZS Campus CET MRSPTU, Bathinda                                                |
-| 13      | Harmeet Singh           | ICT Initiatives in Technical Education                                              | February 8 - 13, 2021  | GNDEC, Ludhiana                                                                |
-| 14      | Harmeet Singh           | International workshop on solar thermal energy storage                              | December 13-14 2021    | IIT Roorkee                                                                    |
+| Sr. No. | Name of Faculty          | Name of Event                                                                       | Date(s)                | Organizing Institute                                                           |
+|:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
+| 1       | Satjot Singh Dhillon     | Professional Development training                                                   | February 8-10, 2021    | IIM, Raipur                                                                    |
+| 2       | Pushpinder Singh Sidhu   | Professional Development training                                                   | February 8-10, 2021    | IIM, Raipur                                                                    |
+| 3       | Prem Singh               | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
+| 4       | Harnam Singh Farwaha     | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
+| 5       | Chatwant Singh Pandher   | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
+| 6       | Satwant Singh            | ICT initiatives in Technical Education                                              | February 8-13, 2021    | Swayam-NPTEL local chapter, GNDEC                                              |
+| 7       | Prem Singh               | Professional Development Training Programme                                         | January 11-13, 2021    | IIM Visakhapatnam                                                              |
+| 8       | Gurmeet Kaur             | Professional Development Training Programme                                         | January 11-13, 2021    | IIM Visakhapatnam                                                              |
+| 9       | Gulraj Singh             | Training on Professional Development                                                | March 1-3, 2021        | IIM Tiruchirappalli                                                            |
+| 10      | Gulraj Singh             | Digital Manufacturing evolutions for smart industries                               | August 16-20, 2021     | oornima College of Engineering, Jaipur                                         |
+| 11      | Amrinder Singh Pannu     | CT Initiatives in Technical Education                                               | February 8 to 13, 2021 | SWAYAM-NPTEL Local Chapter, GNDEC                                              |
+| 12      | Amrinder Singh Pannu     | 3D Printing                                                                         | September 20-24 2021   | GZS Campus CET MRSPTU, Bathinda                                                |
+| 13      | Harmeet Singh            | ICT Initiatives in Technical Education                                              | February 8 - 13, 2021  | GNDEC, Ludhiana                                                                |
+| 14      | Harmeet Singh            | International workshop on solar thermal energy storage                              | December 13-14 2021    | IIT Roorkee                                                                    |
 | 15      | Jasmaninder Singh Grewal | LABORATORY QUALITY MANAGEMENT SYSTEM & INTERNAL AUDIT AS PER IS/ISO/IEC 17025:2017” | December 7-10, 2021    | National Institute of Training for Standardization, Bureau of Indian Standards |
 
+
 ## Events Organized
+
 | Sr. No. | Name of Faculty      | Name of Event          | Date(s)                     | Organizing Institute     |
-| ------- | -------------------- | ---------------------- | --------------------------- | ------------------------ |
+|:--------|:---------------------|:-----------------------|:----------------------------|:-------------------------|
 | 1       | Amrinder Singh Pannu | 3D Printing and Design | August 2-24 2021 (80 hours) | TEQIP III GNDEC Ludhiana |
 
+
 ## NPTEL courses done by Faculty
+
 | Sr. No. | Name of Faculty      | Course Name                                         |
-| ------- | -------------------- | --------------------------------------------------- |
+|:--------|:---------------------|:----------------------------------------------------|
 | 1       | Satjot singh Dhillon | Mechanical Measurement systems                      |
 | 2       | Gulraj Singh         | Electronic Waste Management – Issues and Challenges |
 | 3       | Gulraj Singh         | Polymer Assisted Abrasive Finishing Processes       |
 
 ## NABL & BIS Accredited Pump Testing facility
+
 <p align=justify>
 The pump testing lab of the department has been re-accredited by *National Accreditation Board for Testing and Calibration Laboratories* (NABL) under **ISO/IEC 17025**. The pump testing Lab has facility to test Submersible pumps under IS-8034:2018.
 </p>
