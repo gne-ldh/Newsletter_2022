@@ -8,7 +8,7 @@
 #### Various events conducted in the past year by the students and Coordinator are provided in the following table.
 
 | Sr. No. | Name of Event Organized             | Faculty Coordinator                            | Duration | Date(s)               |
-|:------- |:----------------------------------- |:---------------------------------------------- |:-------- |:--------------------- |
+|:--------|:------------------------------------|:-----------------------------------------------|:---------|:----------------------|
 | 1.      | Group Discussion                    | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 1 day    | 25,February, 2020     |
 | 2.      | Poster Making Contest               | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 3 day    | 19-21,June, 2020      |
 | 3.      | Brains Out                          | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 1 day    | 05,July,2020          |
@@ -29,9 +29,7 @@
 | 18.     | Durability of Concrete              | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 1 hour   | 26,May, 2021          |
 | 19.     | Ek Chatur                           | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 1 hour   | 26,August, 2021       |
 | 20.     | Teachers Day                        | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 1 hour   | 05,September,2021     |
-| 21.      | ACES Felicitation Ceremony| Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 2 hours   |  15,September,2021    |
-| 22.     | Engineers' Day| Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 2 hours  |15,September,2021   |
-| 23.     | Article Wririting Contest| Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 5 Days    |12-16,September,2021      |
-| 24.     | Race to Win| Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 2 Days  | 12-13,October,2021   |        
-
-+
+| 21.     | ACES Felicitation Ceremony          | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 2 hours  | 15,September,2021     |
+| 22.     | Engineers' Day                      | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 2 hours  | 15,September,2021     |
+| 23.     | Article Wririting Contest           | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 5 Days   | 12-16,September,2021  |
+| 24.     | Race to Win                         | Prof. Yuvraj Singh & Prof. Sukhwinderpal Singh | 2 Days   | 12-13,October,2021    |
