@@ -2,184 +2,217 @@
 
 ## Message from HoD's Desk
 
+
+
 ![HSR](Images/hod.jpg)
 
-
+<p align=justify>
 The Department of Information Technology (DIT) imposes impact on both the urban and rural area students. It helps to create groomed, technically competent and skilled students, so that they can compete with the current computing industry. Our department also provides technical solutions for the problems related to the local society. Department provides ample opportunities and tools to the students for grooming them as a productive and participating global citizens. In the end, I can say we incorporate the good communication and technical skills as well as moral and ethical values for the overall development of the individual.
-
+</p>
 
 ## Department at Glimpse
 
 
-- **STTP on “Artificial Intelligence and Machine Learning with Data Science” (Phase-I)**  
+- **Workshop on “DevOPs: Software Architecture (DSA-2021)**  
 
-One week AICTE sponsored online Short Term Training Programme (STTP) on title “Artificial Intelligence and Machine Learning with Data Science” has been inaugurated on Monday.  This programme is organized by the Department of Information Technology, Guru Nanak Dev Engineering College (GNDEC), Ludhiana during 02nd-07th November 2020.  AICTE under Quality Improvement Scheme (AQIS) enables the faculty members/ research scholars to introspect & learn latest techniques that can help them to contribute for the betterment of themselves & society through knowledge enhancement.
-Dr. Deepak Garg Prof. HOD CSE (Bennet University, Noida) and Director (leadingindia.ai, NVIDIA-BCRAI) inaugurated this online programme as chief guest and shared his expert opinions on various research challenges in the domain of artificial intelligence. While sustaining the interactive session, Dr. Garg responded all queries of the participants. He enlightened the various benefits of using the artificial intelligence like reduction of time taken to perform a task, enabling the execution of hitherto complex tasks without significant cost outlays, 24*7 operations without interruption with no downtime, and enhancing the capabilities of differently abled individuals. Dr. Jitender Kumar Chhabra from NIT Kurukshetra delivered the expert talk on the topic “Adding Intelligence to Engineering Systems”.
-Dr. Sehijpal Singh, Principal of GNDEC conveyed that e-learning is the optimum solution during this epidemic current situation and appreciated the efforts of the organizers. He enlightened the significance of AI, ML and Data Analytics in all evolving disciplines.
-![HSR](Images/a1.jpg)
+ ![HSR](Images/FDP1.jpg)
+ <p align=justify>
+ The Department of IT, Guru Nanak Dev Engineering College, Ludhiana organized a four-day workshop on “DevOPs: Software Architecture” (DSA-2021) on 25th, 27th to 29th January, 2021. Dr. Kamaljit Kaur (Assistant Prof., IT) and Er. Parminder Kaur Wadhwa (Assistant Prof., IT) were the Coordinator and Co-Coordinator of the workshop respectively.
+ On 25th January, 2021 (first day), the faculty members of IT department gathered in HPC lab at 10:00 am. The online google meet was started. Dr. Kamaljit Kaur introduced the expert of the workshop, Mr. Vipin Gupta. He is BE, Red Hat Certified Security Specialist (RHCSS), Red Hat Certified Engineer (RHCE), Certified Ethical Hacker (CEH), Cisco Certified (CCNA), Microsoft Certified (MCSE, MCSA). He is running his own companies in Punjab entitled as U-Net Solutions and U-Net Labs Pvt. Ltd. and is specialized in DevOps. Dr.Kiran Jyoti (HOD, IT) welcomed the expert and all the participants. The 20 faculty members and 25 students(UG)  from the various departments of Guru Nanak Dev Engineering College participated in the workshop.
+ The students and the faculty members gained the insight and had hands-on practice of the latest technique “DevOps” through this workshop.
+ </p>
 
+ ![HSR](Images/FDP.jpg)
 
+ - **SDP on "Students' Learning & Skill Enhancement through Interdisciplinary Interventions"**  
 
-- **STTP on “Cyber Security-Current Trends and Future Perspective” (Phase-I)**  
+ <p align=justify>
+  The Department of IT, GNDEC, Ludhiana conducted one week Student Development Programme (SDP) on Students' Learning & Skill Enhancement through Interdisciplinary Interventions, from 1st March to 6th March, 2021in blended mode. Er. Hanit Karwal (IT) and Er. Goldendeep Kaur (CSE), were the coordinators of the programme. The main aim of the program was to involve the students of different disciplines like Mechanical Engineering, Electrical, Computer sciences and Management Programs etc. and enhancing their employability skills. Various topics like  How to develop as a employable professional and lay strong foundations of professional life, Approach to Participate and Win in Hackathons, CV Building & Interview Strategies, LinkedIn Guide for Jobs, Internships and Career Guidance, Creating the Winning Edge through Soft Skills and  Nurturing student capacity through interdisciplinary learning were discussed in detail. 280 students from various disciplines participated and gained a lot of insights with a positive feedback
+  </p>
 
- Information Technology Department of Guru Nanak Dev Engineering College, Ludhiana concluded the weeklong series of lectures and hands-on practice sessions held in the online AICTE Sponsored Short Term Training Programme (STTP) on title “Cyber Security – Current Trends and Future Perspective”. This online training programme was conducted during 09th-14th November 2020 from the High Performance Computing Lab of the Information Technology Department. AICTE under Quality Improvement Scheme (AQIS) enables the faculty members/ research scholars to introspect & learn latest techniques that can help them to contribute for the betterment of themselves & society through knowledge enhancement. This programme was organized with the objective to expose the faculty, research scholars and professionals to develop their competency and expertise over security and networking along-with providing the knowledge about the ongoing scenario in the area of cyber security. Various computer and cyber security threats such as identity theft, phishing attacks, email hoaxes, loss of confidential information and social engineering were elaborated in details with practical exposure.  Renowned and experienced resource persons from renowned organizations like IITs, NITs, NITTTR and GFSU etc. had shared their experiences on various topics in this STTP. Practitioners from industries like UNet Solutions, CyberSec Society and CDAC etc. had demonstrated the real time industry problems as well as methods used as recovery process for various significant issues. Various research concerns were also discussed by the experts in this STTP.
- Mr. Sanjay Sharma from IIT Kanpur was invited as keynote speaker and he shared his expert opinions on real time challenges identified in the current pandemic situation. Dr. Animesh Mukherjee from IIT Kharagpur elaborated the significance of “Hate Speech Dynamics in Social Media” with concern to the current scenario. Er. Vipin Gupta from UNet Solutions executed the hands on practice session on Intrusion Detection System. Mr. Ch A.S. Murty from CDAC Hyderabad pointed out various innovative ideas implemented at the industry and government level for the concern of cyber security. He shared his expert opinions on the topics of “Cyber Crime Scenario: Global and India Perspective” and “Open Source Tools for Cyber Security”. Dr. Haresh Barot from GFSU Gandhinagar delivered his expert talk on Fraud Detection & Forensic accounting with further elaboration of the real-time dataset. Dr. Somitra Kr. Sanadhya from IIT Ropar pointed out the roles of Cryptography & Zero-Knowledge Proofs with reference to the cyber security.
+- **Train The Trainer (TTT) program on Creating Microsites on Infosys Springboard**  
+<p align=justify>
+ A microsite is a one-stop destination that educational institutions can use to their benefit to host internal content with access exclusively for their faculty and students. The objective of the workshop was to guide on creating and publishing a microsite for educational institution.
+ </p>
 
-![HSR](Images/c1.jpg)
-
-
-- **STTP on “Artificial Intelligence and Machine Learning with Data Science” (Phase-II)**  
-
- One week AICTE sponsored online Short Term Training Programme (STTP) on title “Artificial Intelligence and Machine Learning with Data Science” has been inaugurated on Monday.  This programme is organized by the Department of Information Technology, Guru Nanak Dev Engineering College (GNDEC), Ludhiana during 14th-19th December 2020.  AICTE under Quality Improvement Scheme (AQIS) enables the faculty members/ research scholars to introspect & learn latest techniques that can help them to contribute for the betterment of themselves & society through knowledge enhancement.
- Dr. Deepak Garg Prof. HOD CSE (Bennet University, Noida) and Director (leadingindia.ai, NVIDIA-BCRAI) inaugurated this online programme as chief guest and shared his expert opinions on various research challenges in the domain of artificial intelligence. While sustaining the interactive session, Dr. Garg responded all queries of the participants. He enlightened the various benefits of using the artificial intelligence like reduction of time taken to perform a task, enabling the execution of hitherto complex tasks without significant cost outlays, 24*7 operations without interruption with no downtime, and enhancing the capabilities of differently abled individuals. Dr. Jitender Kumar Chhabra from NIT Kurukshetra delivered the expert talk on the topic “Adding Intelligence to Engineering Systems”.
- Rest of the topics to shared in this STTP with practical demonstration (Hands-on practices) includes “Classification and Clustering Algorithms”, “Adding Intelligence to Engineering Systems”, “Data Analytics using Hive and HBase”, “Deep Learning with Tensor flow”, “Disruptive applications of AI in various industries with use cases & scientific solutions”, “Modern day methods of Anomaly Detection and their use in Security Industry”, “Spatial Data Science”, “Machine Learning with Urban Computing”, and “NLP with Deep Learning”, etc.
- Dr. Sehijpal Singh, Principal of GNDEC congratulated the coordinators for organizing much relevant programmes in the need of hour. He also conveyed that e-learning is the optimum solution during this epidemic current situation and appreciated the efforts of the organizers. He enlightened the significance of AI, ML and Data Analytics in all evolving disciplines.
-
- ![HSR](Images/a2.jpg)
+ ![HSR](Images/b1.jpeg)
 
 
-- **STTP on “Cyber Security-Current Trends and Future Perspective” (Phase-II)**  
+- **Satellite based navigation system: A journey from GPS to Mobile Phone Platform**  
+ <p align=justify>
+ Today large amount of geo-spatial data acquired from various sources and processed for various earth resources studies. These geo-spatial datasets for processing require secondary data in the form of geo-tagged samples, GCPs and ground based large scale maps. Now a days geotagged samples, GCPs and ground based large scale maps
+ scenario GNSS have various measurement and positioning techniques which can be applied as per requirement in different applications. Apart from its applications in precise positioning GNSS has applications in various areas like TEC estimation & Earth quake studies, Atmospheric studies and Mobile GIS etc. The course was designed in such a way that first week lectures were dedicated to the basic information about
+ the GNSS leading to studies carried out in  different areas in second week
+ </p>
 
- Information Technology Department of Guru Nanak Dev Engineering College, Ludhiana concluded the weeklong series of lectures and hands-on practice sessions held in the online AICTE Sponsored Short Term Training Programme (STTP) on title “Cyber Security – Current Trends and Future Perspective”. This online training programme was organized during 14th-19th December 2020 from the Information Technology Department of GNE College. AICTE under Quality Improvement Scheme (AQIS) enables the faculty members/ research scholars to introspect & learn latest techniques that can help them to contribute for the betterment of themselves & society through knowledge enhancement. This programme was organized with the objective to expose the faculty, research scholars and professionals to develop their competency and expertise over security and networking along-with providing the knowledge about the ongoing scenario in the area of cyber security. In this STTP, various computer and cyber security threats such as identity theft, phishing attacks, email hoaxes, loss of confidential information and social engineering were elaborated in details with practical exposure.  Renowned and experienced resource persons from highly reputed organizations like IITs, NITs, GFSU, and GNDEC etc. had shared their experiences on various topics in this STTP. Practitioners from industries like UNet Solutions, HackersEra and CDAC etc. had demonstrated the real time industry problems as well as methods used as recovery process for various significant issues. Many research concerns were also discussed by the experts in this STTP.
- Dr. Sumit Kumar, Assistant Director (Income Tax Department, Ghaziabad) was invited as keynote speaker and he shared his expert opinions on real time challenges identified in the current pandemic situation. He enlightened various security breaches that could occur for a organization and also informed about the abundant security mechanisms used within the Income Tax department. Er. Vipin Gupta from UNet Solutions executed the hands-on practice session on Malware Detection and Mitigation. In the practical session, he also elaborated the deployment of web servers and databases in Virtual Private Cloud with security procedures.  Dr. Animesh Mukherjee from IIT Kharagpur mentioned the significance of “Hate Speech Dynamics in Social Media” with concern to the current scenario. Dr. Udai Pratap Rao from SVNIT Surat demonstrated his exposure for the Data Privacy Annonymization Techniques and Block Ciphers.
-
-
-![HSR](Images/a2.jpg)
-
-- **Five Days Faculty Development Programme on “Moodle Learning Management System”**  
-
- Five Days Faculty Development Programme on “Moodle Learning Management System” was organized by the Department of Information Technology, Guru Nanak Dev Engineering College, Ludhiana in association with the Spoken Tutorial, IIT Bombay during Monday to Friday. Online Test for the Successful Completion of this programme was conducted in the evening of May 2nd 2020. E-Participation Certificate were generated and distributed among the successfully qualified participants. Dr. Pankaj Bhambri and Er. Sachin Bagga, Course Coordinators from GNDEC informed that 429 candidates from different colleges and universities of India participated in this FDP, among them 232 male and 197 were the female participants. Moodle is free and open source software and it helps the teachers and educators to create online courses for an adaptive and customized learning. It is used by many small and large educational institutions to create and deliver courses online to their students. Spoken Tutorial Project is funded by the National Mission on Education through Information and Communication Technology, Ministry of Human Resource Development, Government of India and is recommended by NASSCOM as well. Dr. Bhambri enlightened that spoken tutorial project has many unique features w.r.t. other available online courses like self explanatory, uses multi-sensory approaches, small duration, learned-centered, learning by doing, and simultaneous empowerment. He mentioned that this course was organized free of cost among the curious learners. Dr. Sehijpal Singh, Principal of GNDEC conveyed that e-learning is the optimum solution during this epidemic current situation and appreciated the efforts of the organizers. GNDEC is already using the Moodle Platform successfully under the leadership of Dr. H.S.Rai, C.O.E. for the effective teaching learning process.
+  ![HSR](Images/b2.png)
 
 
-- **ATAL Program on AR and VR**
+- **STTP on Data Science and Analytics**  
+<p align=justify>
+Content Coverage
+What, Why, where used, Scope, Components, Sub-classes,  various tools
+Principles, applications, trends, and pertinent issues of Artificial Intelligence, Machine Learning, and Data Science.
+Data Visualization and Analytics.
+Machine Learning and Data Science to a diverse range of operations
+Hands-on sessions using
+MATLAB
+Tableau
+Google: Neural Network Playground
+</p>
 
-  ![HSR](Images/k2.jpeg)   
-  ![HSR](Images/k1.jpeg)
+ ![HSR](Images/b4.jpeg)  
 
+- **Train The Trainer (TTT) program on  JAVA programming**  
+
+ ![HSR](Images/b3.jpeg)  
 
 
 ## Faculty Achievements  
 
-- Dr. Amit Kamra got ISTE Best Teacher award.  
+- Manjot Kaur, Assistant professor(IT), got Best Researcher Award at ICTAI,Tashkent.
 
-![HSR](Images/kamra.jpg)  
+  ![HSR](Images/Manjot.jpeg)
 
-- Dr. Kiran Jyoti received an Grant of Rs. 2,58,333 for conducting STTP on "Artificial Intelligence and Machine Learning with Data Science" vide 601.15(a) dated 10th August 2020
+- Sachin Bagga, Assistant professor(IT), got	recognition from Infosys for actively managing Infosys Campus Connect Activities. He also got recognition from Internshala/AICTE for building a meaningful internship culture among students.
 
+ ![HSR](Images/Bagga.jpg)
 
 ## Publications  
 
-- Singh, P., Kaur, A., Gupta, P. et al. RHAS: robust hybrid auto-scaling for web applications in cloud computing. Cluster Comput (2020). https://doi.org/10.1007/s10586-020-03148-5 (SCI Publication)
-
-- Dr. Amit Jain, Dr. Manpreet Singh. HYBRID AND BLIND WATERMARKING APPROACH FOR THE SECURITY OFDIGITAL IMAGES IN RIDGELETDOMAIN. JCR. 2020; 7(17): 2428-2435. doi:10.31838/jcr.07.17.300
-
-- Singh, Jagdeep, Sachin Bagga, and Ranjodh Kaur. "Software-based prediction of liver disease with feature selection and classification techniques." Procedia Computer Science 167 (2020): 1970-1980
-
-- Singh, Jagdeep and Singh, Parminder. “A Sustainable Resource Allocation Techniques for Fog Computing.” Sustainable Development through Engineering Innovations held on September 17-19, 2020 Link : https://www.springer.com/in/book/9789811595530
-
-- Gurpreet Kaur, Harjot et al. "Liver Disease Prediction Using Optimized feed forward Neural Network" in International Journal of Research and Analytical Reviews vol.7 issue 2 on June 2020
-
-- Kriti Verma , Harjot Kaur."Twitter Based Sentimental Analysis of Online Education Learning Tools" International Journal of Research and Analytical Reviews vol.7 issue 3 on August 2020   801-805
-
-- Singh, Jagdeep, Sachin Bagga, and Ranjodh Kaur. "Software-based prediction of liver disease with feature selection and classification techniques." Procedia Computer Science 167 (2020): 1970-1980.
-
-- Singh, Swaranjit, Vivek Thapar, and Sachin Bagga. "Exploring the hidden patterns of cyberbullying on social media." Procedia Computer Science 167 (2020): 1636-1647.
+- K. Jyoti, Shabnam Sharma, Sahil Verma, Published 2021, A Novel Variant of Bat Algorithm Inspired from CATD-Pursuit Strategy & Its Performance Evaluations,Computer Science, International Journal of Advanced Intelligence Paradigms, DOI:10.1504/ijaip.2021.10030248
+- Singh, Jagdeep, and Parminder Singh. "A Sustainable Resource Allocation Techniques for Fog Computing." In Sustainable Development Through Engineering Innovations: Select Proceedings of SDEI 2020, pp. 143-151. Springer Singapore, 2021. DOI: 10.1007/978-981-15-9554-7_13
+- Singh, Jagdeep, Parminder Singh, and Sukhpal Singh Gill. "Fog computing: A taxonomy, systematic review, current trends and research challenges." Journal of Parallel and Distributed Computing (2021). DOI : 10.1016/j.jpdc.2021.06.005
+- Singh, Jagdeep, Parminder Singh and Jatinder Warraich. ""A Survey on Load Balancing Techniques in Fog Computing "", Presented in ICCS 2021  Confrence at LPU, 2021
+- Avinash Kaur, Pooja Gupta, Parminder Singh and Manpreet Singh (2020) “Data Placement Oriented Scheduling Algorithm for Scheduling Scientific Workflow in Cloud: A Budget-Aware Approach”, Recent Advances in Computer Science and Communications, Vol 13, Issue 5, November 2020, ISSN (Print): 2666-2558, ISSN (Online): 2666-2566, pp. 871 – 883, DOI: 10.2174/2666255813666190925141324
+- Manpreet Singh, Pankaj Bhambri, Inderjit Singh, Amit Jain, Kirandeep Kaur (2021) “Data Mining Classifier for Predicting Diabetics” Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 4, April 2021, Pages. 6702 – 6712
+- Singh, Amrit Pal, Aggarwal, Manuj, Singh, Harpuneet and Bhambri, Pankaj. "Sketching of EV Network: A Complete Roadmap." In Sustainable Development Through Engineering Innovations: Select Proceedings of SDEI 2020, pp. 431-442. Springer Singapore, 2021. DOI: 10.1007/978-981-15-9554-7_37
+- Kulvinder Kaur, I.S. Dhanoa and Pakaj Bhambri, "Optimized PSO-EFA Algorithm for Energy Efficient Virtual Machine Migrations," 2020 5th IEEE International Conference on Recent Advances and Innovations in Engineering (ICRAIE), 2020, pp. 1-5, doi: 10.1109/ICRAIE51050.2020.9358305.
+- Amit Jain, Manpreet Singh and Pankaj Bhambri. "Performance evaluation of {IPv}4-{IPv}6 tunneling procedure using IoT." IoP Publishing, Journal of Physics: Conference Series, August 2021. Vol. 1950, No.1 . DOI: 10.1088/1742-6596/1950/1/012010
+- Manpreet Singh, Pankaj Bhambri, Inderjit Singh, Amit Jain, Kirandeep Kaur (2021) “Data Mining Classifier for Predicting Diabetics” Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 4, April 2021, Pages. 6702 – 6712
+- Amit Jain, Manpreet Singh and Pankaj Bhambri. "Performance evaluation of {IPv}4-{IPv}6 tunneling procedure using IoT." IoP Publishing, Journal of Physics: Conference Series, August 2021. Vol. 1950, No.1 . DOI: 10.1088/1742-6596/1950/1/012010
+- Purnima Bakshi, Pankaj Bhambri, and Vivek Thapar (2021) “A Review Paper on Wireless Sensor Network Techniques in Internet of Things (IoT)” Wesleyan Journal of Research (vol.14, no.7, pp. 147-160)
+- Kamal Nain, A Hybrid Model for Mammogram Images Classification Using Transfer Learning, Turkish journal of CSE and EE, SCI-IF: 0.6
+- Manjot KaurDetection of retinal abnormalities in fundus image using transfer learning networks”, Soft Computing; Springer,2021 (SCIE-Impact Factor-3.643) DOI-10.1007/s00500-021-06088-3
+- Novel Approach for Detection, Localization, and Mitigation of Malicious Node in NoC based SoC IEEE Conference
+- Divya Sharma, Dr. Amandeep Kaur Sohal, Stock Market Prediction Using ARIMA, ANN and SVR, Lecture Notes in Electrical Engineering, Vol 698, 2021. Springer Singapore
+- Manjot Kaur “A Robust Morphological Deep Net Method for Image Segmentation Using Clustering”, International Journal of Current Research and Review,13(8):127-131;2021 (Scopus-Impact Factor-1.84)
+- Manjot Kaur “Segmentation of Retinal Blood Vessels via Novel Mechanism”. Proceedings of 2nd IEEE International Conference on Advances in Computing, Communication Control and Networking, Greater Noida, India.18-19 Dec,2020,pp: 997-1001. (Scopus Indexed)
+- Manjot Kaur "Enhancement of Retinal Image by Hybrid Approach”. Proceedings of IEEE International Conference on Computation, Automation and Knowledge Management, Dubai.19-21 Jan, 2021, pp:374-378(Scopus Indexed)
+- Manjot Kaur “A Robust Morphological Deep Net Method for Image Segmentation Using Clustering”, International Journal of Current Research and Review,13(8):127-131;2021 (Scopus-Impact Factor-1.84)
+- Manjot Kaur “Segmentation of Retinal Blood Vessels via Novel Mechanism”. Proceedings of 2nd IEEE International Conference on Advances in Computing, Communication Control and Networking, Greater Noida, India.18-19 Dec,2020,pp: 997-1001. (Scopus Indexed)
+- Manjot Kaur "Enhancement of Retinal Image by Hybrid Approach”. Proceedings of IEEE International Conference on Computation, Automation and Knowledge Management, Dubai.19-21 Jan, 2021, pp:374-378(Scopus Indexed)
+- Manjot Kaur Detection of retinal abnormalities in fundus image using transfer learning networks”, Soft Computing; Springer,2021 (SCIE-Impact Factor-3.643) DOI-10.1007/s00500-021-06088-3
+- Transfer Learning Approach for the Diagnosis of Pneumonia in Chest X-Rays." In Proceedings of the International Conference on Paradigms of Computing, Communication and Data Sciences, pp. 821-832. Springer, Singapore, 2021.
 
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
-| Sr. No. | Name of Event                                                                                                                 | Faculty Coordinator                                           | Duration | Date(s)                | Sponsor(s)                                     |
+| Sr. No. | Name of Event            | Faculty Coordinator                                           | Duration | Date(s)                | Sponsor(s)                                     |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|:-----------------------------------------------|
-| 1       | Short Term Training Program (STTP)  on Artificial Intelligence and Machine Learning with Data Science (AIMLDS-2020)           | Dr. Kiran Jyoti, Dr. Pankaj Bhambri, Dr. Sandeep Kumar Singla | One Week | 02-07 November, 2020   | AICTE-Quality Improvement Scheme (QIS) 2019-20 |
-| 2       | Short Term Training Program (STTP)  on Cyber Security - Current Trends and Future Perspective                                 | Dr. Kiran Jyoti, Dr. Pankaj Bhambri, Dr. Sandeep Kumar Singla | One Week | 9 - 14 November, 2020  | AICTE-Quality Improvement Scheme (QIS) 2019-20 |
-| 3       | Short Term Training Program (STTP)  on Artificial Intelligence and Machine Learning with Data Science (Phase 2) (AIMLDS-2020) | Dr. Kiran Jyoti, Dr. Pankaj Bhambri, Dr. Sandeep Kumar Singla | One Week | 14-19 December, 2020   | AICTE-Quality Improvement Scheme (QIS) 2019-20 |
-| 4       | Short Term Training Program (STTP)  on Cyber Security - Current Trends and Future Perspective(Phase 2)                        | Dr. Kiran Jyoti, Dr. Pankaj Bhambri, Dr. Sandeep Kumar Singla | One Week | 14 - 19 December, 2020 | AICTE-Quality Improvement Scheme (QIS) 2019-20 |
-| 5       | FDP on “Moodle Learning Management System”                                                                                    | Dr. Pankaj Bhambri, Er. Sachin Bagga                          | 5 days   | 27 April - 1 May, 2020 | Spoken Tutorials, IIT Bombay                   |
-| 6       | ATAL Program on AR and VR                                                                                                     | Dr. Amit Kamra                                                | 1 week   | 23 - 27 Nov, 2020      | GNDEC, Ludhiana                                |
+| 1       | SDP on Students' Learning and Skill Enhancement Through Interdisciplinary Interventions.  | Hanit Karwal |One Week | 1 March - 6 March 2021  | TEQIP-III |
+| 2       | Workshop on "DevOps: Software Architecture"  | Dr. Kamaljit Kaur and  Er. Parminder Kaur Wadhwa |One Week | 25th, 27th to 29th January, 2021  | TEQIP-III |
+| 3       | Online training course on “Satellite based Navigation: A Journey from GPS to Mobile Phone Platform” conducted by this institute during       | Sachin Bagga |Two Week | March 01, 2021 to March 12,”2021,  | IIRS-ISRO |
+| 4      | Data Science and Analytics  | Sachin Bagga | Two Week |8-19 March 2021 | TEQIP-III |
+| 5       | Train The Trainer (TTT) program on Java Programming | Sachin Bagga | 3 Days | Aug 11 – Aug 17, 2021  |Infosys |
+| 6       | TTT Program on Creating Microsite on Infosys Springboard | Sachin Bagga | 3 Days | September 21 - September 23, 2021 |Infosys |
 
 
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
-| Sr. No. | Name of Faculty                                                                                                                | Name of Event                                                                                                | Duration | Date(s)                          | Organizing Institute                                                                    |
+| Sr. No. | Name of Faculty  | Name of Event          | Duration |Date(s)     | Organizing Institute    |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------|:----------------------------------------------------------------------------------------|
-| 1       | Kiran Jyoti                                                                                                                    | Short Term Training on "Internet Of Things "                                                                 | 1 week   | 1 -7 June, 2020                  | Apptronix Technologies in collaboration with A.G Patil Institute of Technology, Solapur |
-| 2       | Kiran Jyoti                                                                                                                    | "Information Security: Issues and Challenges (ISIC-2020)”                                                    | 1 week   | 17 -21 Nov, 2020                 | Motilal Nehru National Institute of Technology Allahabad                                |
-| 3       | Kiran Jyoti                                                                                                                    | OUTCOME BASED EDUCATION: A STEP TOWARDS EXCELLENCE                                                           | 1 week   | 11 -15 May, 2020                 | Government College of Engineering, Karad, Margdarshan Scheme of AICTE, New Delhi        |
-| 4       | Kiran Jyoti                                                                                                                    | Faculty Development for New Tomorrow: Readiness for teaching and learning post COVID-19                      | 1 week   | 24 -28 July, 2020                | NIT Uttrakhnad & SLIET , Longowal                                                       |
-| 5       | Manpreet Singh                                                                                                                 | Managerial Skills for Interpersonal Dynamics                                                                 | 12 weeks | 27 Jan -17 April, 2020           | IIT Roorkee, Online through Swayam                                                      |
-| 6       | Manpreet Singh                                                                                                                 | Disciplinary Rules and Procedure                                                                             | 2 days   | 8 -9 Dec, 2020                   | NAHRD, New Delhi                                                                        |
-| 7       | Manpreet Singh                                                                                                                 | Digital Transformation of Institutions of Higher Learning                                                    | 1 week   | 1 - 5 Dec, 2020 NAHRD, New Delhi |                                                                                         |
-| 8       | Sandeep Kumar Singla                                                                                                           | AICTE Training And Learning (ATAL) Academy Online FDP on "Cyber Security"                                    | 1 Week   | 6 -10 Oct,2020                   | Poornima Institute of Engineering & Technology.                                         |
-| 9       | Sandeep Kumar Singla, Ranjodh Kaur, Kamaljit Kaur                                                                              | FDP On Open Source Learning Management System: Modular Object-Oriented Dynamic Learning Environment (MOODLE) | 1 week   | 16 - 22 June, 2020               | IIT, Bombay                                                                             |
-| 10      | Sandeep Kumar Singla                                                                                                           | TEQIP-III sponsored webinar on  IPR and Patent Filing                                                        | 1 day    | 2 July, 2020                     | GNDEC, Ludhiana                                                                         |
-| 11      | Sandeep Kumar Singla                                                                                                           | TEQIP-III Online STC on "Applications of Machine Learning in advancements of Computer Science"               | 1 week   | 17 - 12 Aug, 2020                | NIT, Jalandhar                                                                          |
-| 12      | Sandeep Kumar Singla                                                                                                           | Faculty Development Program (FDP) on R Programming                                                           | 1 week   | 27 April -1 May, 2020            | Indo Global Group of Colleges, New Chandigarh                                           |
-| 13      | Pankaj Bhambri                                                                                                                 | Workshop on “Train the Trainers on Examination Reforms”                                                      | 3 days   | 9 -11 January, 2020              | KLE Technological University, Hubli                                                     |
-| 14      | Pankaj Bhambri                                                                                                                 | Faculty Development Program on “Internet of Things (IoT)” (OnlineMode)                                       | 5 days   | 20 -14 April, 2020               | NITTTR, Chandigarh                                                                      |
-| 15      | Pankaj Bhambri                                                                                                                 | Faculty Development Program on “Energy Conservation and Management                                           | 5 days   | 4 -8 May, 2020                   | GNDEC, Ludhiana                                                                         |
-| 16      | Pankaj Bhambri                                                                                                                 | Faculty Development Program on “Artificial Intelligence” (Online Mode)                                       | 5 days   | 11 -15 May, 2020                 | KLE Technological University, Hubli                                                     |
-| 17      | Pankaj Bhambri                                                                                                                 | Short Term Course on “Advanced Research Methods and Data Analysis Techniques” (Online Mode)                  | 1 week   | 27 -31 August, 2020              | Dr. B.R. Ambedkar National Institute of Technology, Jalandhar                           |
-| 18      | Pankaj Bhambri                                                                                                                 | Short Term Course on “Future of Industrial Automation” (Online Mode)                                         | 1 weeks  | 5-7 October, 2020                | Sant Longowal Institute of Engineering & Technology, Longowal                           |
-| 19      | Pankaj Bhambri                                                                                                                 | Faculty Development Programme on “Cyber Crime and Security” (Online Mode)                                    | 2 weeks  | 5 -17 October, 2020              | G.B. Pant University of Agriculture and Technology, Pantnagar                           |
-| 20      | Pankaj Bhambri                                                                                                                 | e-STC on “Recent Advances of Machine Learning in Software Engineering”                                       | 1 week   | 23 -27 November, 2020            | Dr. B.R.Ambedkar National Institute of Technology, Jalandhar                            |
-| 21      | Parminder Kaur Wadhwa                                                                                                          | Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education               | 2 weeks  | 26 Oct - 7 Nov, 2020             | GNDEC, Ludhiana                                                                         |
-| 22      | Parminder Kaur Wadhwa, Ranjodh Kaur                                                                                            | Five Days TEQIP Workshop on "Advanced Algorithms"                                                            | 5 days   | 28,29 Nov- 5,6,12 Dec, 2020      | IIT, Hyderabad                                                                          |
-| 23      | Kiran Jyoti, Pankaj Bhambri, Jagdeep Singh, Kamaljit Kaur, Mohanjit Kaur, Yadvir Kaur, Hanit Karwal, Harjot Kaur, Sachin Bagga | Modes of Teaching and Learning in Lockdown                                                                   | 1 day    | 11 May, 2020                     | GNDEC, Ludhiana                                                                         |
-| 24      | Sandeep Kumar Singla, Jagdeep Singh ,Rupinder Kaur, Harpreet Kaur, Hanit Kaur                                                  | Moodle Learning Management System                                                                            | 1 week   | Jan, 2020                        | IIT, Bombay                                                                             |
-| 25      | Ranjodh Kaur                                                                                                                   | SDT on "Efficient, Trackable and Sustainable Workflow"                                                       | 1 week   | 2 -8 Dec, 2020                   | GNDEC, Ludhiana                                                                         |
-| 26      | Ranjodh Kaur                                                                                                                   | National Level Quiz on NAAC                                                                                  | 1 day    | 6 july, 2020                     | Department of Computer Engineering P.V.P.P College of Mumbai                            |
-| 27      | Ranjodh Kaur                                                                                                                   | MASTER CLASS on DATA SCIENCE AND ITS APPLICATIONS                                                            | 5 days   | 21 -25 Nov, 2020                 | GNDEC, Ludhiana                                                                         |
-| 28      | Jagdeep Singh                                                                                                                  | Professional Development Training                                                                            | 1 week   | 28 Jan,2020-1 Feb,2020           | IIM Raipur                                                                              |
-| 29      | Jag deep Singh                                                                                                                 | NPTEL-AICTE FDP Cloud Computing                                                                              | 1 week   | Sept-Nov, 2020                   | IIT,Kharagpur                                                                           |
-| 30      | Jagdeep Singh                                                                                                                  | Recent Trends in Image Processing Techniques                                                                 | 1 week   | 30 Dec,2019-3 Jan, 2020          | GNDEC, Ludhiana                                                                         |
-| 31      | Rupinder Kaur, Kamaljit Kaur                                                                                                   | Women Safety Rights and Gender Equality                                                                      | 1 day    | 9 July, 2020                     | GNDEC, Ludhiana                                                                         |
-| 32      | Rupinder Kaur                                                                                                                  | Database Management System Infosys Certification Model                                                       | 3 days   | 22 -24 July, 2020                | INFYTQ                                                                                  |
-| 33      | Rupinder Kaur, Yadvir Kaur, Hanit Kaur, Harjot Kaur                                                                            | Sustainable Development through Engg Innovations                                                             | 3 days   | 17 - 19 Sep, 2020                | GNDEC, Ludhiana                                                                         |
-| 34      | Rupinder Kaur, Yadvir Kaur, Mohanjit Kaur                                                                                      | Augmented Virtual Reality                                                                                    | 3 days   | 17 - 19 Sep, 2020                | GNDEC, Ludhiana                                                                         |
-| 35      | Rupinder Kaur, Hanit Karwal, Mohanjit Kaur                                                                                     | Artificial Intelligence with Machine Learning and Data Science                                               | 1 week   | 14 - 19 Sep, 2020                | GNDEC, Ludhiana                                                                         |
-| 36      | Harpreet Kaur, Yadvir Kaur, Sachin Bagga                                                                                       | Moodle Test for Teachers Training                                                                            | 1 week   | 27 April - 1 MAY, 2020           | GNDEC, Ludhiana                                                                         |
-| 37      | Harpreet Kaur                                                                                                                  | Internet of Things: Industry, Academia & Startups                                                            | 3 days   | 21 - 23 Dec, 2020                | IIT, Hyderabad                                                                          |
-| 38      | Harpreet Kaur, Hanit Karwal                                                                                                    | Webinar on Advanced OBE- Identifying weaker students and remedial actions                                    | 1 day    | 9 MAY, 2020                      | InPods Ed-tech                                                                          |
-| 39      | Harpreet Kaur                                                                                                                  | Design and Pedagogy of the introductory programming Course                                                   | 4 week   | Feb - March, 2020                | NPTEL, IIT Bombay                                                                       |
-| 40      | Yadvir Kaur                                                                                                                    | Python Programming through INFYTQ platform                                                                   | 1 week   | 22-29 june, 2020                 | Infosys Limited                                                                         |
-| 41      | Hanit Kaur                                                                                                                     | Webinar on IPR and Patent filing                                                                             | 1 day    | 22 july, 2020                    | GNDEC Ludhiana                                                                          |
-| 42      | Mohanjit Kaur, Harpreet Kaur, Yadvir Kaur                                                                                      | Hands on training for digital teaching aids                                                                  | 1 day    | 22 july, 2020                    | GNDEC Ludhiana                                                                          |
-| 43      | Sachin Bagga                                                                                                                   | Short Term Training Program (STTP)  on Cyber Security - Current Trends and Future Perspective                | 1 week   | 9-14 Nov, 2020                   | GNDEC Ludhiana                                                                          |
-| 44      | Sachin Bagga                                                                                                                   | Computational Intelligence Techniques for Machine Learning                                                   | 1 week   | 31 Aug-5 Sept, 2020              | Jaypee University, Himachal Pardesh                                                     |
-| 45      | Sachin Bagga                                                                                                                   | Recent trends in Computer Architecture, VLSI and Embedded Systems                                            | 1 week   | 8- 13 June, 2020                 | Gokaraju Rangaraju institute of Engineering and Technology, Hyderabad                   |
+| 1 | Sidharath Jain | TEQIP-III sponsored Workshop on "DevOps: Software Architecture"     | One week   | 25th, 27th to 29th January, 2021 |Department of Information Technology, Guru Nanak Dev Engineering College, Ludhiana|
+| 2 | Harpreet Kaur | TEQIP-III sponsored Workshop on "DevOps: Software Architecture"     | One week   | 25th, 27th to 29th January, 2021 |Department of Information Technology, Guru Nanak Dev Engineering College, Ludhiana|
+| 3 | Hanit Karwal | TEQIP-III sponsored Workshop on "DevOps: Software Architecture"     | One week   | 25th, 27th to 29th January, 2021 |Department of Information Technology, Guru Nanak Dev Engineering College, Ludhiana|
+| 4 | Parminder Kaur Wadhwa | TEQIP-III sponsored Workshop on "DevOps: Software Architecture"     | One week   | 25th, 27th to 29th January, 2021 |Department of Information Technology, Guru Nanak Dev Engineering College, Ludhiana|
+| 5 | Dr. Kamaljit Kaur | TEQIP-III sponsored Workshop on "DevOps: Software Architecture"     | One week   | 25th, 27th to 29th January, 2021 |Department of Information Technology, Guru Nanak Dev Engineering College, Ludhiana|
+| 6 | Dr. Manpreet Singh | NPTEL course (AICTE Approved FDP) on “Effective Writing”     | Four weeks   |Jan 18, 2021 to Feb 12, 2021 | IIT Roorkee |
+| 7 | Dr. Pankaj Bhambri | NPTEL course (AICTE Approved FDP) on “Effective Writing”     | Four weeks   |Jan 18, 2021 to Feb 12, 2021 | IIT Roorkee |
+| 8 | Hanit Karwal | Professional Development Training   | 3 days   | 17-19 March 2021 | IIM Jammu |
+| 9 | Dr. Pankaj Bhambri | NPTEL course (AICTE Approved FDP) on “Effective Writing”     | Four weeks    | Jan 18, 2021 to Feb 12, 2021 |IIT Roorkee |
+| 10 | Rupinder Kaur | ICT Initiatives in Technical Education”      | 1 week   | Feb 8,2021 to 13 Feb 2021 | SWAYAM NPTEL|
+| 11 |  Dr. Kamaljit Kaur | ICT Initiatives in Technical Education”      | 1 week   | Feb 8,2021 to 13 Feb 2021 | SWAYAM NPTEL|
+| 12 |  Dr. Kiran Jyoti | Effective Teaching Methodologies Through Optimistic Teaching Aids      | One Week  | 17-05-2021 to 22-05-2021 | Department of Master of Computer Applications , KLN College of Engineering Tamil Nadu, India |
+| 13 | Dr.Pankaj Bhambri | AICTE Recognized Faculty Development Programme on “NBA Accreditation and Examination Reforms”     | One Week  | 17-05-2021 to 21-05-2021 | National Institute of Technical Teachers Training and Research, Chandigarh |
+| 14 |  Dr. Kamaljit Kaur | Recent Trends In Big Data, Data Science And Its Applications (RTBDA-2021)   | One Week | June 05 - 09, 2021 | Department of Computer Science & Engineering of GMR Institute of Technology, Rajam |
+| 15 | Er. Parminder Kaur Wadhwa  | "NAAC/NBA Accreditation Awareness Workshop"   | Two days  | 15th and 16th July, 2021 | Department of College Development, I.K. Gujral Punjab Technical University, Jalandhar |
+| 16 | Rupinder Kaur | Webinar on Insight in Block Chain Technology     | 1 day   | 29 July 2021 | Punjabi University Patiala|
 
-## Expert Lectures delivered
 
-| Sr. No. | Name of Faculty | Topic                                                | Date(s)       | Institute            |
-|:--------|:----------------|:-----------------------------------------------------|:--------------|:---------------------|
-| 1       | Amit Kamra      | Expert talk on Orange Tool                           | 21 Jan, 2021  | MCE Hasaan, Karnatka |
-| 2       | Amit Kamra      | Expert talk on Google Cardboard                      | 19 Jan, 2021  | MNIT Jaipur          |
-| 3       | Amit Kamra      | Expert talk on Virtual reality in AICTE approved FDP | 20 Jan, 2020  | HCE Chennai          |
-| 4       | Yadvir Kaur     | Expert talk on Sustainability and ICT                | 13 June, 2020 | GNDEC, Ludhiana      |
 
 ## Student's Corner  
 
-**Winners of Smart India Hackathon 2020**  
+ **Placements**
 
-![HSR](Images/h.png)
-
-Students of IT Department won Smart India Hackathon 2020 (Winner in the world's largest
-national level hackathon). The students of Guru Nanak Dev Engineering College's ScifiDevs
-Team, named another national level achievement, named the world's largest national level
-hackathon.
-Gurmeet Singh (Team Leader) and team members, Damanpreet Singh, Deepinder Kaur, Jaskaran Singh, Sukhmandeep Kaur and Prabhleen Kaur achieved this feat with intelligent use of their technical knowledge and hard work.
-
-**Placement in Microsoft**  
-
-![HSR](Images/jyoti.jpeg)
-
-Jyoti Gupta, a student of final year IT(Batch 2017-21), has been placed in Microsoft.  
-
-**Microsoft/IBM ambassador**  
-
-![HSR](Images/s3.jpeg)  
-
-Alakhdeep Singh, a student of second year(Batch 2019-2023) is Microsoft Learn student Ambassador and also IBM Z Ambassador.  
+| Sr. No. | Name of Student     | Company      | Package |
+|:--------|:-----------------|:---------|:---------|
+| 1 | Jaskaran Singh | Infosys Limited    | 3.6 lacs   |
+| 2 | Anand Kumar | HCL Technologies Ltd.    | 4.75 lacs |
+| 3  | Muskan Arora | HCL Technologies Ltd.    | 4.75 lacs |
+| 4 | Gourav Khera | BizMerlin HR.    | 3.3 lacs |
+| 5 | Madvi | Brillio   | 4.5 lacs |
+| 6 | Nikita Negi | Brisk Logic Pvt. Ltd.  | 3 lacs |
+| 7 | Rohit Sharma | BYJU's  | 10 lacs |
+| 8 | Manmeet Kaur | Capgemini  | 4 lacs |
+| 9 | Sahil Sharma | Capgemini  | 4 lacs |
+| 10 | Ujjwal Khanna | Capgemini  | 4 lacs |
+| 11| Mehak | Capgemini  | 4 lacs |
+| 12 | Abhishek Yadav | Cognizant  | 4.5 lacs |
+| 13 | Piyush Gupta | Cognizant  | 4.5 lacs |
+| 14 | Sahil Sharma | Cognizant  | 4.5 lacs |
+| 15 | Yogita Sahni | Cognizant  | 6.75 lacs |
+| 16 | Sehaj chawla | Cognizant  | 4 lacs |
+| 17 | Kanishka Malhotra | Cognizant  | 4 lacs |
+| 18 | Lovish Rajpal | Cognizant  | 4 lacs |
+| 19 | Bhavya Garg | Cognizant  | 4 lacs |
+| 20 | Madvi | Cognizant  | 4 lacs |
+| 21 | Amritpal Kaur | Cognizant  | 4 lacs |
+| 22 | Priyanshi Singla | Cognizant  | 4 lacs |
+| 23 | Nivedan Sharma | Cognizant  | 4 lacs |
+| 24 | Mehak | Cognizant  | 4 lacs |
+| 25 | Piyush Mehta | Cognizant  | 4 lacs |
+| 26 | Gauri Bawa | Cognizant  | 4 lacs |
+| 27 | Arshpreet Singh | Cognizant  | 4 lacs |
+| 28 | Simrath Kaur | Cognizant  | 4 lacs |
+| 29 | Sanjam Preet Singh | Cognizant  | 4 lacs |
+| 30 | Rahul Ranjan | Cognizant  | 4.5 lacs |
+| 31 | Arshpreet Singh | HCL Technologies Ltd.  | 3.65 lacs|
+| 32 | Piyush Gupta | HCL Technologies Ltd.   | 3.65 lacs |
+| 33 | Tanvi |HCL Technologies Ltd.   | 3.65 lacs |
+| 34 | Vritti Gupta | HCL Technologies Ltd.   | 3.65 lacs |
+| 35 | Bhavya Garg | HCL Technologies Ltd.   | 3.57 lacs |
+| 36 | Mehak | HCL Technologies Ltd.   | 3.57 lacs |
+| 37 | Nivedan Sharma | HCL Technologies Ltd.   | 3.57 lacs |
+| 38 | Sanjam Preet Singh |HCL Technologies Ltd. | 3.57 lacs|
+| 39 | Shashi Gupta | HCL Technologies Ltd.   | 3.57 lacs |
+| 40 | Yogita Sahni | Infosys Limited  | 3.6 lacs |
+| 41 | Madvi | Infosys Limited  | 3.6 lacs |
+| 42 | Vritti | Infosys Limited  | 3.6 lacs |
+| 43 | Manmeet Kaur | Infosys Limited  | 5 lacs |
+| 44 | Suryansh Chopra | Infosys Limited  | 5 lacs |
+| 45 | Lovish Rajpal | Orion eSolutions Pvt. Ltd.  | 3.75 lacs |
+| 46 | Vishal Singla | Pure Software Pvt. Ltd.  | 6 lacs |
+| 47 | Gaurav Chauhan |Orion eSolutions Pvt. Ltd.  | 4 lacs |
+| 48 | Rahul Ranjan |  Pure Software Pvt. Ltd.  | 6 lacs |
+| 49 | Ikrar Khan | Sapient  | 6.5 lacs |
+| 50 | Abhishek kumar Choudhary | Step2gen  | 2.6 lacs |
+| 51 | Kanishka Malhotra | TCS (Ninja)  | 3.36 lacs |
+| 52 | Asees Khurana | TCS (Ninja)  | 3.36 lacs |
+| 53 | Aditya Sharma | TCS (Ninja) | 3.36 lacs |
+| 54 | Lovish Rajpal | TCS (Ninja)  | 3.36 lacs |
+| 55 | Piyush Gupta | TCS (Ninja)  | 3.36 lacs |
+| 56 | Vishal Singla | TCS (Ninja)  | 3.36 lacs |
+| 57 | Gurwinder Singh | Venture Pact, LLC  | 4.62 lacs |
+| 58 | Japesh Bagga | Venture Pact, LLC  | 4.62 lacs |
+| 59 | Nivedan Sharma | Samsung  | 14.5 lacs |
+| 60 | Gurwinder Singh | Samsung  | 14.5 lacs |
+| 61 | Kulvir Singh | Xenonstack  | 5 lacs |
+| 62 | Sidique Chaudhary | Xenonstack | 5 lacs |
+| 63 | Madvi | Wipro  | 3.5 lacs |
+| 64 | Anant Shree | Wipro  | 3.5 lacs |
+| 65 | Mokshi | Wipro  | 3.5 lacs |
+| 66 | Sanjam Preet Singh | Wipro | 3.5 lacs |
