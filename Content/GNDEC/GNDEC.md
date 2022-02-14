@@ -1,7 +1,7 @@
 ![img](Images/gndec.png)
 # GNDEC at Glance
 
-| [About Us](GNDEC.md) | [GNDEC in News](News.md) | [Video Gallery](Videos.md) | [GNDEC Home](https://gndec.ac.in/) |
+| [About Us](GNDEC.md) | [GNDEC in News](News.md) | [Video Gallery](Videos.md) | [GNDEC Home](https://gndec.ac.in/) | [Departments at Glimpse](\CoverPage/Contents.md) | [Cultural Committee](\Cultural/Cultural.md) |
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIpXf4SVzUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
