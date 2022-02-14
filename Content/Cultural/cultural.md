@@ -1,12 +1,5 @@
 # Cultural Committee
 
-## Message from HoD's Desk
-
-![HSR](Images/JagbirSingh.jpg)
-
-
-
-## Department at Glimpse
 
 <div align="justify">
 
@@ -64,10 +57,5 @@ Open air theatre is a central point of attraction for the students where various
     - College Bhangra Team Participated in National Level Youth Festival held at Shivaji University, Kolhapur and Bagged 1st Position
     - College Bhangra Team Participated in North Inter University Youth Festival held at Chhatrapati Shahu Ji Maharaj University , Kanpur and bagged 2nd Position
 
-- 2015 
+- 2015
     - College Won Overall Trophy in Zonal PTU Youth Festival
-
-
-
-
-
