@@ -19,7 +19,7 @@
 - [Er. Harpreet Kaur (IT)](https://gndec.ac.in/faculty/?id=231)
 - [Dr. Navdeep Kaur (MBA)](https://gndec.ac.in/faculty/?id=169)
 - [Er. Jaswant Singh (MCA and Cultural)](https://gndec.ac.in/faculty/?id=333)
-- [Prof. Karan Bhalla (App. Sci.)](https://gndec.ac.in/faculty/?id=273)
+- [Prof. Nisha Masson (App. Sci.)](https://gndec.ac.in/faculty/?id=377)
 - [Ar. Navjot Kaur (SoA)](Profiles/Navjot.md)
 - [Dr. Gunjan Bhardwaj (Sports)](https://gndec.ac.in/faculty/?id=33)
 - [Er. Sachin Bagga (T&P)](https://gndec.ac.in/faculty/?id=208)
