@@ -6,8 +6,7 @@
 - [Er. Yuvraj Singh (CE)](Profiles/YJS.md)
 - [Dr. Sumeet Kaur Sehra (CSE)](https://gndec.ac.in/faculty/?id=95)
 
-
-
+***Deparmental Editors***
 
 - [Er. Navneet Singh (CE)](https://gndec.ac.in/faculty/?id=343)
 - [Er. Prem Singh (ME)](https://gndec.ac.in/faculty/?id=102)
